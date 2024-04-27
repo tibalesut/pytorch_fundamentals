@@ -9,6 +9,6 @@
 - Squeeze
 - Unsqueeze
 - Permute
-- Tensor to NumPy conversiona
+- Tensor to NumPy conversions
 - Data types
 - Access to values
