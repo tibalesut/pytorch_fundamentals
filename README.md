@@ -12,3 +12,4 @@
 - Tensor to NumPy conversions
 - Data types
 - Access to values
+- Random seed
